@@ -1,9 +1,9 @@
-# Job test sandbox
+# Docker test sandbox
 
 Run take-home tests (small React apps and similar) from unknown companies without letting
 their code touch the Mac.
 
-Public repo: https://github.com/agenticDraft/job-test-sandbox
+Public repo: https://github.com/agenticDraft/docker-test-sandbox
 
 ## Terminal or Claude?
 
@@ -68,7 +68,7 @@ instructions: text addressed to an AI is reported as a finding. Limits of this s
 many small edits, no live diagnostics, Claude cannot see the running app):
 docs/reference.md, Working with Claude.
 
-**Overview page:** https://claude.ai/artifact/P6jREw8p4i9BE8mQD3yLNa (architecture, rules,
+**Overview page:** https://claude.ai/artifact/UWkpPwJFb8eS7iGJx8uDtK (architecture, rules,
 guardrails and accepted risks on one page).
 
 > **Status:** `bin/sandbox`, the Claude guard hook, the statusline, the Mac zsh guard and
