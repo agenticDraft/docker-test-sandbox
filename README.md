@@ -1,4 +1,4 @@
-# Job test sandbox
+# Docker test sandbox
 
 Run take-home tests (small React apps and similar) from unknown companies without letting
 their code touch the Mac.
