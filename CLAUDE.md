@@ -45,9 +45,9 @@ the steps; read them before changing anything.
   Plan Phase 6 and FIRST-INSTALLATION.md Task 7 passed, except the `npm rebuild` check.
 - The `job-test-scan` skill in `.claude/skills/job-test-scan/` does the scan ("scan <firm>");
   edit it only with the `skill-creator` skill.
-- Repo is **public**: https://github.com/agenticDraft/job-test-sandbox. Never commit
+- Repo is **public**: https://github.com/agenticDraft/docker-test-sandbox. Never commit
   anything from `work/` or other private material.
-- Published runbook: https://claude.ai/artifact/P6jREw8p4i9BE8mQD3yLNa — source is
+- Published runbook: https://claude.ai/artifact/UWkpPwJFb8eS7iGJx8uDtK — source is
   `.claude/artifacts/job-test-sandbox.html` (gitignored). To update that same URL from a
   new session, publish with `url` set to it; publishing the path alone creates a new artifact.
 
